@@ -1,0 +1,35 @@
+body{
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSuRzUaR87WmLbBy3TR2K_W0B-s9z-OaIepnl0FKcH_w&s);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+header {
+    display: flex;
+    color: white;
+    justify-content: center;
+}
+
+
+header a {
+    text-decoration: none;
+    color: white;
+    margin-right: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    
+}
+
+h1{
+    color: yellow;
+
+}
+
+
+
+
+
+
